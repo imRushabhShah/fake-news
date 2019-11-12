@@ -1,3 +1,4 @@
+this is the material that has been forked
 # Deep Learning Finds “Fake News” with 97% Accuracy
 
 In his [article](https://www.kdnuggets.com/2017/04/machine-learning-fake-news-accuracy.html) published on KDnuggets in 2017 George McIntire describes an experiment building a "fake news" classifier using a document-vector model and Naive Bayes approach.  He reports an 88% accuracy when classifying a "fake news" [dataset](https://github.com/GeorgeMcIntire/fake_real_news_dataset) which he assembled from various sources.  This of course immediately made me wonder if deep neural networks (DNNs) can do better and if the performance increase due to these deep learners is statistically significant compared to the performance of the Naive Bayes classifier.
