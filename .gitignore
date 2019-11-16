@@ -1,0 +1,13 @@
+__pycache__/
+*.npy
+*.pkl
+*.pickle
+data/
+aclImdb/
+*.txt
+*.zip
+.ipynb_checkpoints/
+models/
+goog_lm/
+aux_files/
+tempWorkspace.ipynb
