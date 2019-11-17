@@ -1,13 +1,7 @@
 __pycache__/
-*.npy
 *.pkl
 *.pickle
-data/
-aclImdb/
 glove*.txt
 *.zip
 .ipynb_checkpoints/
-models/
-goog_lm/
-aux_files/
 tempWorkspace.ipynb
