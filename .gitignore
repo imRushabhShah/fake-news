@@ -5,3 +5,4 @@ glove*.txt
 *.zip
 .ipynb_checkpoints/
 tempWorkspace.ipynb
+save/
