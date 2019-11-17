@@ -4,7 +4,7 @@ __pycache__/
 *.pickle
 data/
 aclImdb/
-*.txt
+glove*.txt
 *.zip
 .ipynb_checkpoints/
 models/
